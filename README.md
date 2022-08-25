@@ -1,4 +1,4 @@
-# crm
+# Finance CRM on the Youtube chanell Vladilen
 
 ## Project setup
 ```
